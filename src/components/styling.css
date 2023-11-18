@@ -58,3 +58,7 @@ h1 {
   color: white;
   font-size: 60px;
 }
+
+.tableHeader{
+  padding: 20px;
+}
