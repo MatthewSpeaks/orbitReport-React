@@ -28,18 +28,3 @@ const Table = ({ sat }) => {
 };
 
 export default Table;
-
-
-/*
-const Buttons = ({ filterByType, setSat, displaySats }) => {
-  // will be 4 total buttoms when the project is complete.
-  return (
-    <>
-    <div>
-      {displaySats.map((sat, id) => {
-    return (
-      <button onClick={() => filterByType(sat)} key={id}>
-        {sat} Orbit
-      </button>
-    ); 
-    */
